@@ -1,6 +1,6 @@
 # Enter the key first
 
-# Hit enter and write your message that you wanna encrypt
+# Hit enter and write the text that you wanna encrypt
 
 keyy= int(input( ))
 
@@ -26,4 +26,4 @@ for lett in inp:
 print("key:"+str(keyy))
 print("your message:"+inp+"\n")
 
-print("Encrypted message : "+msg)
+print("Encrypted message: "+msg+"\n")
